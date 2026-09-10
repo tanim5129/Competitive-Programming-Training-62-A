@@ -1,6 +1,6 @@
 # Competitive-Programming-Training-62-A
 
-# Join Vjudge Group: 
+# Join Vjudge Group: https://vjudge.net/group/a62
 
 
 
